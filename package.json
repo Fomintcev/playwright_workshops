@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "playwright": "^1.51.1"
+  },
+  "name": "workshop_3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.16"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
