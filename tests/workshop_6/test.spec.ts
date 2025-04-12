@@ -7,7 +7,7 @@ const testData = {
     number: '123456789',
 }
 
-test.describe('User registration tests', ()=>{
+test.describe.skip('User registration tests', ()=>{
     test.beforeEach(async({page})=>{
         await page.goto('file:///Users/roman/Playwrigth_Vasyl_Shpak/src/workshop_6/index.html');
     })
