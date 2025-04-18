@@ -33,7 +33,7 @@ test.describe.skip('Variable declarations and types', ()=>{
     })
 })
 
-test.describe.only('Type Definition and Interfaces', ()=>{
+test.describe.skip('Type Definition and Interfaces', ()=>{
     
     type User = {
         firstName: string,
